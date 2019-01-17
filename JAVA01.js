@@ -21,3 +21,28 @@ var fruits=["Apple","Banane","Kiwi" ,"Orange"];
 
   console.log(fruits.pop());  
   console.log(fruits);
+
+// sort and add animal - intermediate exercise 2
+
+var animals=["monkey","horse","dog"];
+
+console.log(animals.sort());
+
+animals.push("cat");
+console.log(animals);
+console.log(animals.sort());
+
+// intermediate exercise 3
+
+// var basket =[ "mango","cherries","kiwi","grapes","pear","peach","orange","lemon"];
+// console.log(basket);
+
+var b = "mango/cherries/kiwi/rapes/pear/peach/orange/lemon";
+var temp = new Array();
+temp = b.split('/');
+document.write(temp);
+
+
+
+
+
