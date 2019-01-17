@@ -40,7 +40,7 @@ console.log(animals.sort());
 var b = "mango/cherries/kiwi/rapes/pear/peach/orange/lemon";
 var temp = new Array();
 temp = b.split('/');
-document.write(temp);
+document.write("/");
 
 
 
