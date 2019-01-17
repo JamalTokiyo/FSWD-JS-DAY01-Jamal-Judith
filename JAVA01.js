@@ -41,13 +41,13 @@ var b = "mango/cherries/kiwi/rapes/pear/peach/orange/lemon";
 // var temp = new Array();
 // no need to define a new array
 temp = b.split('/');
-<<<<<<< HEAD
+
 document.write("/");
-=======
+
 document.write(temp[0] + "<br>" + temp[1] + "<br>" + temp[2] + "<br>" + temp [3]+ "<br>" + temp[4]+ "<br>" + temp[5]+ "<br>" + temp[6]+ "<br>" + temp[7]);
 
 temp[0];
->>>>>>> 3d1c82c19e6828cac7fb01b78ae16801632a6443
+
 
 
 
